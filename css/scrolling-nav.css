@@ -6,6 +6,12 @@
 
 header {
   padding: 154px 0 100px;
+  
+  
+}
+
+#header{
+  background-color:peru !important;
 }
 
 @media (min-width: 992px) {
@@ -16,4 +22,14 @@ header {
 
 section {
   padding: 150px 0;
+}
+a{
+  color: beige !important;
+}
+#footer{
+  background-color: brown !important;
+}
+#mainNav{
+  background-color: brown !important;
+  
 }
